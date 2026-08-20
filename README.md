@@ -1,136 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0066FF,100:7B2CFF&height=230&section=header&text=SYED%20ABDULLAH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Syed%20Abdullah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Syed+Abdullah+%F0%9F%91%8B;Developer+%7C+Programmer+%7C+Tech+Enthusiast;Building+the+future+one+line+of+code+at+a+time+%F0%9F%9A%80;Welcome+to+my+GitHub!+%E2%9C%A8"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=SyedAbdullah0318&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Syed+Abdullah+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Tailwind+CSS+%7C+Node.js+%7C+Next.js+%7C+SQL"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
+
+I'm **Syed Abdullah**, a Web Developer who enjoys building websites and web applications.
+
+I work with modern web technologies and I'm continuously improving my development skills by learning, practicing, and building projects.
+
+### 💻 What I Work With
+
+* 🌐 Frontend Web Development
+* ⚛️ React
+* 🎨 Tailwind CSS
+* 🟨 JavaScript
+* 🟢 Node.js
+* ▲ Next.js
+* 🗄️ SQL
+* 🧱 HTML & CSS
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,nextjs,sql&perline=8"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SyedAbdullah0318&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbdullah0318&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SyedAbdullah0318&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Web Development
 
 ```text
-╔══════════════════════════════════════╗
-║          SYED ABDULLAH               ║
-╠══════════════════════════════════════╣
-║ 🚀 Developer                         ║
-║ 💻 Programming Enthusiast             ║
-║ 🌱 Always Learning                    ║
-║ 🔥 Building Cool Projects             ║
-║ ⚡ Turning Ideas Into Code             ║
-╚══════════════════════════════════════╝
+Frontend
+├── HTML
+├── CSS
+├── JavaScript
+├── React
+└── Tailwind CSS
+
+Backend
+├── Node.js
+└── SQL
+
+Framework
+└── Next.js
 ```
 
-* 🔭 Currently working on exciting projects
-* 🌱 Learning and exploring new technologies
-* 💡 Interested in software & web development
-* 🚀 Always looking for new things to build
-* 🎯 Goal: **Keep learning. Keep building. Keep improving.**
+---
+
+## 🚀 My Goal
+
+To keep improving as a Web Developer, build useful web applications, and learn new technologies along the way.
 
 ---
 
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,linux&perline=9"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SyedAbdullah0318&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbdullah0318&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SyedAbdullah0318&theme=tokyonight&hide_border=true&mode=weekly"/>
-
-</div>
-
----
-
-## 🌌 3D Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SyedAbdullah0318/SyedAbdullah0318/profile-3d-contrib/profile-green-animate.svg"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SyedAbdullah0318/SyedAbdullah0318/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedAbdullah0318&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SyedAbdullah0318&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
-
-</div>
-
----
-
-## 🚀 Let's Connect
+## 📫 GitHub
 
 <div align="center">
 
 <a href="https://github.com/SyedAbdullah0318">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-SyedAbdullah0318-181717?style=for-the-badge&logo=github"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SyedAbdullah0318&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### 💙 Thanks for visiting!
+### Thanks for visiting my profile! 👋
 
-**⭐ Explore my repositories and let's build something amazing together.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:0066FF,100:00F5FF&height=130&section=footer"/>
-
-<!--
-    ╔═══════════════════════════════════════╗
-    ║       SYED ABDULLAH • 2026            ║
-    ║       Keep Coding • Keep Growing      ║
-    ╚═══════════════════════════════════════╝
--->

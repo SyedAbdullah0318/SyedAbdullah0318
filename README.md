@@ -16,13 +16,13 @@
 
 <div align="center">
 
-## 👋 Welcome to My GitHub
+# 👋 Welcome to My GitHub
 
 ### 💻 I'm **Syed Muhammad Abdullah**
 
 ### 🚀 Front-End Developer
 
-**I love creating clean, responsive and modern web experiences.**
+**I enjoy creating clean, responsive and modern web experiences.**
 
 </div>
 
@@ -30,9 +30,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Syed Muhammad Abdullah**, a **Front-End Developer** who enjoys building modern and responsive websites.
+I'm **Syed Muhammad Abdullah**, a **Front-End Developer** passionate about creating modern and responsive websites.
 
-My main focus is **front-end development**, where I work with:
+My main focus is **Front-End Development**, where I work with:
 
 - 🌐 HTML
 - 🎨 CSS
@@ -41,17 +41,17 @@ My main focus is **front-end development**, where I work with:
 - 🎨 Tailwind CSS
 - ▲ Next.js
 
-I also work with **SQL** and I'm continuously improving my development skills through learning, practicing and building projects.
+I also work with **SQL** and continuously improve my skills through learning, practice and building projects.
 
 > 💡 **Learn → Build → Improve → Repeat**
 
 ---
 
-## ⚡ My Tech Stack
+# ⚡ My Tech Stack
 
 <div align="center">
 
-### 🌐 Front-End
+### 🌐 Front-End Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs&theme=dark&perline=6"/>
 
@@ -71,7 +71,7 @@ I also work with **SQL** and I'm continuously improving my development skills th
 
 ---
 
-## 🧠 Technologies I Use
+# 🧠 Technologies I Use
 
 <div align="center">
 
@@ -89,19 +89,77 @@ I also work with **SQL** and I'm continuously improving my development skills th
 
 ---
 
-## 🎨 What I Enjoy Building
+# 🎨 What I Love Building
 
 <div align="center">
 
-| 💻 Web Interfaces | 📱 Responsive Designs | ✨ Modern UI |
-|:---:|:---:|:---:|
-| Clean layouts | Mobile friendly | Interactive experiences |
+### 💻 Modern Web Interfaces
+
+Clean and attractive user interfaces.
+
+### 📱 Responsive Websites
+
+Web experiences that work across different screen sizes.
+
+### ⚛️ Interactive Experiences
+
+Modern interfaces built with React and JavaScript.
+
+### 🎨 Beautiful UI
+
+Clean layouts, responsive designs and smooth user experiences.
 
 </div>
 
 ---
 
-## 🌟 My Front-End Journey
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="./profile/stats.svg" width="49%" />
+
+<img src="./profile/top-langs.svg" width="49%" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="./profile/streak.svg" width="80%" />
+
+</div>
+
+---
+
+# 🌌 3D Contribution Universe
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedAbdullah0318/SyedAbdullah0318/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedAbdullah0318/SyedAbdullah0318/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SyedAbdullah0318/SyedAbdullah0318/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+# 🌟 My Front-End Journey
 
 <div align="center">
 

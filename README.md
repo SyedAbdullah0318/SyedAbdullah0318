@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Syed+Muhammad+Abdullah+%F0%9F%91%8B;Front-End+Developer+%F0%9F%92%BB;Building+Modern+Web+Experiences+%E2%9C%A8;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Tailwind+CSS+%7C+Next.js+%7C+SQL;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Syed+Muhammad+Abdullah+%F0%9F%91%8B;Front-End+Developer+%F0%9F%92%BB;Building+Modern+Web+Experiences+%E2%9C%A8;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Tailwind+CSS+%7C+Node.js+%7C+SQL;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%F0%9F%9A%80"/>
 
 <br><br>
 
@@ -39,7 +39,7 @@ My main focus is **Front-End Development**, where I work with:
 - 🟨 JavaScript
 - ⚛️ React
 - 🎨 Tailwind CSS
-- ▲ Next.js
+- 🟢 Node.js
 
 I also work with **SQL** and continuously improve my skills through learning, practice and building projects.
 
@@ -53,7 +53,7 @@ I also work with **SQL** and continuously improve my skills through learning, pr
 
 ### 🌐 Front-End Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs&theme=dark&perline=6"/>
 
 <br><br>
 
@@ -82,7 +82,7 @@ I also work with **SQL** and continuously improve my skills through learning, pr
 | 🟨 **JavaScript** | Web Interactivity |
 | ⚛️ **React** | Modern User Interfaces |
 | 🎨 **Tailwind CSS** | Responsive UI Development |
-| ▲ **Next.js** | Modern React Web Development |
+| 🟢 **Node.js** | JavaScript Runtime & Development |
 | 🗄️ **SQL** | Database |
 
 </div>
@@ -188,7 +188,7 @@ Clean layouts, responsive designs and smooth user experiences.
                                   │
                                   ▼
                        ┌─────────────────────┐
-                       │      Next.js        │
+                       │      Node.js        │
                        └──────────┬──────────┘
                                   │
                                   ▼
